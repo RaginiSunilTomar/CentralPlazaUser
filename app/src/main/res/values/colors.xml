@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#47C6FA</color>
+    <color name="colorPrimaryDark">#02315C</color>
+    <color name="darkblue">#02315C</color>
+
+    <color name="colorAccent">#D81B60</color>
+    <color name="favcolor">#D8326A</color>
+    <color name="pink">#E96D97</color>
+
+
+    <color name="greendark">#79CDDD</color>
+    <color name="line">#53C0B9</color>
+    <color name="reg_header">#C373CA</color>
+    <color name="reg_btn">#F25D94</color>
+    <color name="bottom">#76CA71</color>
+    <color name="signupbtn">#F46195</color>
+    <color name="light_gray">#E4E4E4</color>
+    <color name="T">#607D8B</color>
+    <color name="light_gray1">#F1F1F1</color>
+</resources>

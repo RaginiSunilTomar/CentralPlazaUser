@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_cart"
+        android:title="Cart"
+        android:iconTint="@android:color/holo_blue_light"
+        android:icon="@drawable/ic_shopping_cart_black_24dp"
+        />
+
+   <!-- <item android:id="@+id/nav_orders"
+        android:title="Orders"
+        />
+
+    <item android:id="@+id/nav_categories"
+        android:title="Categories"
+        />-->
+    <item android:id="@+id/nav_catalogue"
+        android:title="Catalogue"
+        android:iconTint="@android:color/holo_green_light"
+        android:icon="@drawable/ic_book_black_24dp"
+        />
+
+    <item android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:iconTint="@android:color/holo_purple"
+        android:icon="@drawable/ic_settings_applications_black_24dp"
+        />
+
+
+    <item android:id="@+id/nav_ContactUs"
+        android:title="Contact Us"
+        android:icon="@drawable/ic_contact_phone_black_24dp"
+        />
+
+
+    <item android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:iconTint="@android:color/holo_red_dark"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        />
+
+
+
+</menu>

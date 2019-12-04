@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "263239160650",
+    "firebase_url": "https://abtmaster-78158.firebaseio.com",
+    "project_id": "abtmaster-78158",
+    "storage_bucket": "abtmaster-78158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263239160650:android:b7b4cb608308998d88e7b3",
+        "android_client_info": {
+          "package_name": "com.sagar.abt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263239160650-deng0044bsm7gguubsvima8flk175j86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAESscC2k1GIjZLicqZRfpb6mZyU5vrFXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263239160650-deng0044bsm7gguubsvima8flk175j86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

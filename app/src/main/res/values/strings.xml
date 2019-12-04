@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CentralPlaza</string>
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">NavDrawer Closed</string>
+    <string name="title_activity_home">Shopping App</string>
+</resources>
